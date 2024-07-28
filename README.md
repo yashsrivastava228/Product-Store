@@ -1,4 +1,7 @@
 <h1 align="center">PRODUCT STORE</h1>
+The Product Store is a full-featured web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This project allows users to manage products seamlessly with an intuitive interface and robust functionality.
+
+## Overview
 
 <div>
   <img src="https://github.com/user-attachments/assets/52f7d8ca-4af1-4922-95f7-3095ca614272" alt="Screenshot 1" width="600" />
@@ -8,17 +11,23 @@
   <img src="https://github.com/user-attachments/assets/64214520-4381-4b0c-aa2c-75c0651194c4" alt="Screenshot 2" width="600" />
 </div>
 
-## About This Course:
 
--   ⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
--   🔥 Build an API
--   📱 Responsive UI With React.js and ChakraUI
--   🐞 Error Handling
--   🌐 Deployment
--   🚀 And Many More Cool Features
+### Features
 
-## Live Demo:
+- **Create Products**: Add new products with a name, price, and image.
+- **Edit and Delete Products**: Modify or remove existing products effortlessly.
+- **Dark Mode**: Toggle between light and dark themes for a comfortable viewing experience.
 
-Check out the live demo using the link below:
+### Tech Stack
+
+- **React.js**: Frontend library for building dynamic user interfaces.
+- **Node.js**: Backend runtime environment for executing JavaScript server-side.
+- **Express.js**: Web framework for creating a robust backend API.
+- **MongoDB**: NoSQL database for efficient data storage.
+
+### Live Demo
+
+Experience the Product Store by visiting the live demo:
 
 [Product Store Live Demo](https://product-store-9tjf.onrender.com/)
+
