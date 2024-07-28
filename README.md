@@ -1,8 +1,8 @@
 <h1 align="center">PRODUCT STORE</h1>
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github.com/user-attachments/assets/52f7d8ca-4af1-4922-95f7-3095ca614272" alt="Screenshot 1" width="400" height="300" />
-  <img src="https://github.com/user-attachments/assets/64214520-4381-4b0c-aa2c-75c0651194c4" alt="Screenshot 2" width="400" height="300" />
+  <img src="https://github.com/user-attachments/assets/52f7d8ca-4af1-4922-95f7-3095ca614272" alt="Screenshot 1" style="width: 400px; height: auto; object-fit: contain;" />
+  <img src="https://github.com/user-attachments/assets/64214520-4381-4b0c-aa2c-75c0651194c4" alt="Screenshot 2" style="width: 400px; height: auto; object-fit: contain;" />
 </div>
 
 ## About This Course:
