@@ -1,5 +1,5 @@
 <h1 align="center">PRODUCT STORE</h1>
-The Product Store is a full-featured web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This project allows users to manage products seamlessly with an intuitive interface and robust functionality.
+The Product Store is a full-featured web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This project allows users to manage products seamlessly with an intuitive interface and robust functionality. Users can easily create, edit, and delete products with a few simple steps. The application also includes a dark mode feature, offering a comfortable viewing experience in different lighting conditions.
 
 ## Overview
 
