@@ -1,10 +1,11 @@
 <h1 align="center">PRODUCT STORE</h1>
 
 <div>
-  <img src="https://github.com/user-attachments/assets/52f7d8ca-4af1-4922-95f7-3095ca614272" alt="Screenshot 1" width="800" style="margin-bottom: 20px;" />
+  <img src="https://github.com/user-attachments/assets/52f7d8ca-4af1-4922-95f7-3095ca614272" alt="Screenshot 1" width="800" />
 </div>
+<div style="height: 20px;"></div>
 <div>
-  <img src="https://github.com/user-attachments/assets/64214520-4381-4b0c-aa2c-75c0651194c4" alt="Screenshot 2" width="800" style="margin-top: 20px;" />
+  <img src="https://github.com/user-attachments/assets/64214520-4381-4b0c-aa2c-75c0651194c4" alt="Screenshot 2" width="800" />
 </div>
 
 ## About This Course:
