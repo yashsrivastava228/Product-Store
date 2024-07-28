@@ -1,6 +1,8 @@
 <h1 align="center">PRODUCT STORE</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+<div>
+  <img src="https://github.com/user-attachments/assets/52f7d8ca-4af1-4922-95f7-3095ca614272" alt="Screenshot 1" width="400" style="margin-right: 20px;" />
+</div>
 
 
 About This Course:
@@ -11,25 +13,11 @@ About This Course:
 -   🐞 Error Handling
 -   🌐 Deployment
 -   🚀 And Many More Cool Features
--   ✅ This is a lot of work. Support my work by subscribing to the [Channel](https://www.youtube.com/@asaprogrammer_)
 
-### Setup .env file
 
-```shell
-MONGO_URI=your_mongo_uri
-PORT=5000
-```
+## Live Demo:
 
-### Run this app locally
+Check out the live demo using the link below:
 
-```shell
-npm run build
-```
+[Netflix Clone Live Demo](https://netflix-frontend-u9xt.onrender.com/)
 
-### Start the app
-
-```shell
-npm run start
-```
-
-### I'll see you in the next one! 🚀
