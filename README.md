@@ -29,5 +29,5 @@ The Product Store is a full-featured web application built using the MERN stack 
 
 Experience the Product Store by visiting the live demo:
 
-[Product Store Live Demo](https://product-store-9tjf.onrender.com/)
+[Product Store Live Demo](https://product-store-bk6e.onrender.com/)
 
